@@ -1,16 +1,4 @@
-# dealsdray
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# dealdray assignment
+This was the assignment given to me 
+to develop the Login fuctionality using the api given.
+Note:-To go to the authetication page you need to provide this number 9011470243 as using this number I was able to get the response from the server. Using any other phone number would get error in login.
